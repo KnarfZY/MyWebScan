@@ -1,0 +1,1 @@
+使用说明 python WebScan.py -u http://www.baidu.com 
