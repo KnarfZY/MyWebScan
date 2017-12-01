@@ -1,0 +1,2 @@
+xycms
+{"system": {"images": {"common.js": {"49ed0d60b73129aebf93de5bbc4fd76e": {}}, "style.css": {"6bfbaf7c3e740b19e1af6c4b6bb3ffa2": {}}, "Deepteach_colorPicker.js": {"b2096cbcab653ad132350ef455f10e95": {}}, "menu.js": {"6b22b5913da498c9194205930fb95922": {}}}}}

@@ -1,0 +1,2 @@
+74cms
+{"templates": {"default": {"css": {"wap.css": {"50c71ede9badf9417b15a3df09890a50": {}}}, "js": {"jquery.KinSlideshow.min.js": {"376a6749c02e3d527cfce83a2e77d568": {}}, "jquery.highlight-3.js": {"9b9f1ebc7411e9d9cec08031622a645a": {}}}}, "tpl_company": {"default": {"css": {"ui-dialog.css": {"4440728e29e7b41b79f33fb212845b9f": {}}}}}}}

@@ -1,0 +1,2 @@
+Joomla
+{"media": {"system": {"js": {"punycode-uncompressed.js": {"1b6d3b0e700c0a47cd91bbe2a75dcd12": {}}}}, "editors": {"codemirror": {"mode": {"crystal": {"crystal.js": {"37af5605299e885305a5a1f499288d3c": {}}}, "jinja2": {"jinja2.js": {"7078315f8a3f9181c79d8b969cb10607": {}}}}, "addon": {"scroll": {"simplescrollbars.css": {"0352ba51fd6a422fe6cc44925e33ad88": {}}}}}}}}

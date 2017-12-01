@@ -1,0 +1,2 @@
+ECShop
+{"includes": {"fckeditor": {"fckeditor.js": {"5ec5a57d981113875d68d2daa3e01a0d": {}}, "editor": {"filemanager": {"browser": {"default": {"js": {"common.js": {"cf81ed7a0668e5eb3b9135bf7eb65b9a": {}}}}}}, "dialog": {"common": {"fck_dialog_common.js": {"2341d0ae9d63666fbe01469582068419": {}}}}, "dtd": {"fck_xhtml10transitional.js": {"2eaa9662e59360ed579aa2e422c7aa39": {}}}}}}}

@@ -1,0 +1,2 @@
+CmsEasy
+{"common": {"js": {"jquery": {"ui": {"themes": {"flora": {"flora.tabs.css": {"28cddf861963342333a844bac80f2219": {}}, "flora.datepicker.css": {"670ec3ce24416b0c7a462e39bc39ca1d": {}}, "flora.all.css": {"7f325a06e7ccf2222c0c4527449c0527": {}}}}}}}}, "js": {"jquery.min.js": {"10092eee563dec2dca82b77d2cf5a1ae": {}}}}

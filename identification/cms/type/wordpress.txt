@@ -1,0 +1,2 @@
+wordpress
+{"wp-includes": {"js": {"admin-bar.min.js": {"5bd4dfd347e0592a6bc8a5b9d6b070fc": {}}, "media-models.min.js": {"bc01c1de1fdb0176783247e8a754a60b": {}}, "tinymce": {"skins": {"lightgray": {"content.inline.min.css": {"35b20a1298ab637a58ac70fa73df335c": {}}}}}, "comment-reply.js": {"d30ad028653d4eac285a1d4d06567bbd": {}}}}}

@@ -1,0 +1,2 @@
+dedecms
+{"images": {"swfupload": {"plugins": {"swfupload.swfobject.js": {"9cf88d567c218192eb26bf3b27763b83": {}}, "swfupload.queue.js": {"83b614f4e551d5c176833ee44c8f0e01": {}}, "swfupload.speed.js": {"d840d5988a2b8b64350faed539041550": {}}, "swfupload.cookies.js": {"f6940672b1ef27fccbe5a360d8382b72": {}}}}}}
